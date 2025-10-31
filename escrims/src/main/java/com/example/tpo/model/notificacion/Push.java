@@ -5,5 +5,7 @@ public class Push implements IEstrategiaNotificacion {
 
     @Override
     public void enviar(Notificacion n) { if (adapter != null) adapter.enviar(n); }
-}
 
+    public void setAdapter(IAdapterFirebase adapter) { this.adapter = adapter; }
+    public IAdapterFirebase getAdapter() { return adapter; }
+}

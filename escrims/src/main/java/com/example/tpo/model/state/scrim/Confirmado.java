@@ -13,15 +13,14 @@ public class Confirmado implements ScrimState {
     public void confirmar(ScrimContext ctx, Usuario u) {}
 
     @Override
-    public void iniciar(ScrimContext ctx) {}
+    public void iniciar(ScrimContext ctx) { if (ctx != null) ctx.setState(new EnJuego()); }
 
     @Override
     public void finalizar(ScrimContext ctx) {}
 
     @Override
-    public void cancelar(ScrimContext ctx) {}
+    public void cancelar(ScrimContext ctx) { if (ctx != null) ctx.setState(new Cancelado()); }
 
     @Override
     public String nombre() { return "Confirmado"; }
 }
-

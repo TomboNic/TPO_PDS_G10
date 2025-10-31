@@ -14,5 +14,9 @@ public class GestorEmparejamiento {
             estrategia.emparejar(busqueda, jugadoresDisponibles);
         }
     }
-}
 
+    public List<Usuario> emparejarYDevolver(Busqueda busqueda, List<Usuario> jugadoresDisponibles) {
+        if (estrategia == null) return jugadoresDisponibles;
+        return estrategia.emparejar(busqueda, jugadoresDisponibles);
+    }
+}

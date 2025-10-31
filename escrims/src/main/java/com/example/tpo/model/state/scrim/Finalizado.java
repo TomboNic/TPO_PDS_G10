@@ -27,4 +27,3 @@ public class Finalizado implements ScrimState {
     @Override
     public String nombre() { return "Finalizado"; }
 }
-

@@ -24,4 +24,3 @@ public class Cancelado implements ScrimState {
     @Override
     public String nombre() { return "Cancelado"; }
 }
-

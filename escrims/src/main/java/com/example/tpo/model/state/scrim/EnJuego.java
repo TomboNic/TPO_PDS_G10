@@ -16,7 +16,7 @@ public class EnJuego implements ScrimState {
     public void iniciar(ScrimContext ctx) {}
 
     @Override
-    public void finalizar(ScrimContext ctx) {}
+    public void finalizar(ScrimContext ctx) { if (ctx != null) ctx.setState(new Finalizado()); }
 
     @Override
     public void cancelar(ScrimContext ctx) {}
@@ -24,4 +24,3 @@ public class EnJuego implements ScrimState {
     @Override
     public String nombre() { return "EnJuego"; }
 }
-

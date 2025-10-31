@@ -9,6 +9,7 @@ public class ScrimContext {
     private Scrim scrim;
 
     public void setState(ScrimState s) { this.state = s; }
+    public ScrimState getState() { return state; }
     public void postular(Usuario u, Rol r) { if (state != null) state.postular(this, u, r); }
     public void confirmar(Usuario u) { if (state != null) state.confirmar(this, u); }
     public void iniciar() { if (state != null) state.iniciar(this); }
@@ -18,4 +19,3 @@ public class ScrimContext {
     public Scrim getScrim() { return scrim; }
     public void setScrim(Scrim scrim) { this.scrim = scrim; }
 }
-
