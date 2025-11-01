@@ -46,7 +46,6 @@ public class Main {
                 + ", equipo2: " + facade.getScrim(scrimId).getEquipo2().size());
         System.out.println("Suplentes: " + facade.getScrim(scrimId).getSuplentes().size());
         printRosters(facade, scrimId);
-        printEstado(facade.getContext(scrimId));
 
         facade.armarLobby(scrimId); // opcional, la transición también ocurre al llenar cupos
         printEstado(facade.getContext(scrimId));
@@ -60,11 +59,6 @@ public class Main {
         facade.finalizar(scrimId, new Resultado());
         printEstado(facade.getContext(scrimId));
         System.out.println("Flujo de scrim ejecutado (crear->postular->confirmar->iniciar->finalizar)");
-
-        // Notificaciones: suscriptor simple (simulado)
-        NotificationSubscriber sub = new NotificationSubscriber(new NotificadorFactoryDev());
-        sub.onEvent(new ScrimCreated());
-        System.out.println("Evento ScrimCreated notificado (simulado)");
     }
 
     private static void printEstado(ScrimContext ctx) {

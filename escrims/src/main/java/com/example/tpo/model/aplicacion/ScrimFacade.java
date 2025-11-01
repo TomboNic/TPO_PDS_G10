@@ -30,6 +30,7 @@ public class ScrimFacade {
         s.setIdScrim(seq);
         ScrimContext ctx = new ScrimContext();
         ctx.setScrim(s);
+        ctx.setBus(bus);
         ctx.setState(new BuscandoJugadores());
         scrims.put(seq, ctx);
         return seq++;
