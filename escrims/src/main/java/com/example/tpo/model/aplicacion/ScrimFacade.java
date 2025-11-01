@@ -36,6 +36,21 @@ public class ScrimFacade {
         return seq++;
     }
 
+    // Overload to allow specifying team size (cupos por lado)
+    public int crearScrim(int cuposPorLado) {
+        Scrim s = new ScrimBuilder()
+                .fecha(Instant.now())
+                .cuposPorLado(cuposPorLado)
+                .build(bus);
+        s.setIdScrim(seq);
+        ScrimContext ctx = new ScrimContext();
+        ctx.setScrim(s);
+        ctx.setBus(bus);
+        ctx.setState(new BuscandoJugadores());
+        scrims.put(seq, ctx);
+        return seq++;
+    }
+
     public void postular(int id, Usuario u, Rol r) {
         ScrimContext ctx = scrims.get(id);
         if (ctx != null) ctx.postular(u, r);

@@ -7,6 +7,7 @@ import com.example.tpo.model.notificacion.Push;
 import com.example.tpo.model.observer.events.LobbyCompleted;
 import com.example.tpo.model.observer.events.ScrimFinalized;
 import com.example.tpo.model.observer.events.ScrimStateChanged;
+import com.example.tpo.views.ViewFiles;
 
 public class NotificationSubscriber implements ISubscriber {
     private INotificadorFactory factory;
@@ -40,7 +41,7 @@ public class NotificationSubscriber implements ISubscriber {
             String destinatario = (notif.getDestinatario() != null)
                     ? (notif.getDestinatario().getNombreUsuario() != null ? notif.getDestinatario().getNombreUsuario() : notif.getDestinatario().toString())
                     : "(broadcast)";
-            System.out.println("[Push][DEV] tipo=" + tipo + ", to=" + destinatario + ", msg=" + contenidoLog);
+            ViewFiles.println("notifications", "[Push][DEV] tipo=" + tipo + ", to=" + destinatario + ", msg=" + contenidoLog);
         } else {
             n.enviar(notif);
         }

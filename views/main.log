@@ -1,0 +1,356 @@
+=== Demo completa ===
+Usuarios registrados: 3
+Estado mail u1: MailVerificado
+Login OK? true, Login Fail? true
+Scrim creado con id: 1
+Postulados equipo1: 1, equipo2: 1
+Suplentes: 1
+Flujo de scrim ejecutado (crear->postular->confirmar->iniciar->finalizar)
+=== Demo completa ===
+Usuarios registrados: 3
+Estado mail u1: MailVerificado
+Login OK? true, Login Fail? true
+Scrim creado con id: 1
+Postulados equipo1: 1, equipo2: 1
+Suplentes: 1
+Flujo de scrim ejecutado (crear->postular->confirmar->iniciar->finalizar)
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+0. Salir
+
+Seleccione una opción: 
+=== CU1: Registrar Usuario ===
+Ingrese los datos del usuario:
+Nombre: Apellido: Username: Email: Password: 
+¡Registro exitoso!
+Datos del usuario registrado:
+Nombre completo: Maurizio Mariolani Mariolani
+Username: maum
+Email: m@gmail.com
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+0. Salir
+
+Seleccione una opción: 
+=== CU2: Autenticar Usuario ===
+Email: Password: 
+¡Autenticación exitosa!
+Bienvenido Maurizio Mariolani Mariolani
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+0. Salir
+
+Seleccione una opción: 
+=== CU3: Crear Scrim ===
+Seleccione el formato del Scrim:
+1. 1vs1
+2. 3vs3
+3. 5vs5
+Formato: [Push][DEV] tipo=ScrimCreated, to=(broadcast), msg=Evento: ScrimCreated
+[Push][DEV] tipo=ScrimStateChanged, to=(broadcast), msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+Scrim creado con ID: 1
+Formato: 1vs1
+Estado actual: BuscandoJugadores
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+0. Salir
+
+Seleccione una opción: 
+=== CU4: Postularse a Scrim ===
+Ingrese el ID del scrim: Seleccione su rol:
+1. TOP
+2. JUNGLE
+3. MID
+4. ADC
+5. SUPPORT
+Rol: Postulación realizada.
+
+Cupos por equipo: 1
+Equipo1: 1/1 jugadores
+Equipo2: 0/1 jugadores
+Equipo1: maum
+Equipo2: -
+Suplentes: -
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+0. Salir
+
+Seleccione una opción: 
+=== CU1: Registrar Usuario ===
+Ingrese los datos del usuario:
+Nombre: Apellido: Username: Email: Password: 
+¡Registro exitoso!
+Datos del usuario registrado:
+Nombre completo: nico tombo
+Username: ntom
+Email: ntom@gmail.com
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+0. Salir
+
+Seleccione una opción: 
+=== CU4: Postularse a Scrim ===
+Ingrese el ID del scrim: Seleccione su rol:
+1. TOP
+2. JUNGLE
+3. MID
+4. ADC
+5. SUPPORT
+Rol: [Push][DEV] tipo=ScrimStateChanged, to=(broadcast), msg=Estado: BuscandoJugadores -> LobbyArmado (scrim=1)
+[Push][DEV] tipo=LobbyCompleted, to=(broadcast), msg=Lobby completo (scrim=1)
+Postulación realizada.
+
+Cupos por equipo: 1
+Equipo1: 1/1 jugadores
+Equipo2: 1/1 jugadores
+Equipo1: maum
+Equipo2: maum
+Suplentes: -
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+0. Salir
+
+Seleccione una opción: 
+=== CU7: Iniciar Scrim ===
+Ingrese el ID del scrim: Scrim iniciado.
+Estado actual: LobbyArmado
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+0. Salir
+
+Seleccione una opción: 
+=== CU8: Finalizar y Cargar Estadísticas ===
+Ingrese el ID del scrim: Scrim finalizado y estadísticas cargadas.
+Estado actual: LobbyArmado
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+0. Salir
+
+Seleccione una opción: 
+=== CU5: Emparejar y Armar Lobby ===
+Ingrese el ID del scrim: Lobby armado.
+Estado actual: LobbyArmado
+Equipo1: maum
+Equipo2: maum
+Suplentes: -
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+0. Salir
+
+Seleccione una opción: 
+=== CU6: Confirmar Participación ===
+Precondición: Lobby armado
+Ingrese el ID del scrim: [Push][DEV] tipo=ScrimStateChanged, to=(broadcast), msg=Estado: LobbyArmado -> Confirmado (scrim=1)
+Usuario maum confirmó participación
+Estado actual: Confirmado
+Postcondición: Participación confirmada para el usuario maum
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+0. Salir
+
+Seleccione una opción: 
+=== CU8: Finalizar y Cargar Estadísticas ===
+Ingrese el ID del scrim: Scrim finalizado y estadísticas cargadas.
+Estado actual: Confirmado
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+0. Salir
+
+Seleccione una opción: 
+=== CU10: Notificar Eventos ===
+Simulando notificaciones del sistema...
+[Push][DEV] tipo=ScrimCreated, to=(broadcast), msg=Evento: ScrimCreated
+Eventos notificados exitosamente.
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+0. Salir
+
+Seleccione una opción: 
+=== CU11: Moderar Reportes ===
+Procesando reporte de conducta...
+Reporte procesado por la cadena de moderación.
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+0. Salir
+
+Seleccione una opción: 
