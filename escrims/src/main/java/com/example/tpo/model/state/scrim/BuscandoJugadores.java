@@ -11,13 +11,21 @@ public class BuscandoJugadores implements ScrimState {
         if (ctx == null || ctx.getScrim() == null || u == null) return;
         var s = ctx.getScrim();
         int maxPorLado = Math.max(1, s.getCupos() / 2);
-        if (s.getEquipo1().size() < maxPorLado) {
+        
+        // Verificar si el usuario ya está en algún equipo
+        if (s.getEquipo1().contains(u) || s.getEquipo2().contains(u) || s.getSuplentes().contains(u)) {
+            return; // Usuario ya está postulado
+        }
+
+        // Distribuir equitativamente entre equipos
+        if (s.getEquipo1().size() <= s.getEquipo2().size() && s.getEquipo1().size() < maxPorLado) {
             s.getEquipo1().add(u);
         } else if (s.getEquipo2().size() < maxPorLado) {
             s.getEquipo2().add(u);
         } else {
             s.getSuplentes().add(u);
         }
+
         if (s.getEquipo1().size() == maxPorLado && s.getEquipo2().size() == maxPorLado) {
             ctx.setState(new LobbyArmado());
         }

@@ -23,9 +23,10 @@ public class ScrimFacade {
     private final DomainEventBus bus = new DomainEventBus();
     private int seq = 1;
 
-    public int crearScrim() {
+    public int crearScrim(int cuposPorLado) {
         Scrim s = new ScrimBuilder()
                 .fecha(Instant.now())
+                .cuposPorLado(cuposPorLado)
                 .build(bus);
         s.setIdScrim(seq);
         ScrimContext ctx = new ScrimContext();
@@ -42,22 +43,34 @@ public class ScrimFacade {
 
     public void confirmar(int id, Usuario u) {
         ScrimContext ctx = scrims.get(id);
-        if (ctx != null) ctx.confirmar(u);
+        if (ctx != null) {
+            ctx.confirmar(u);
+            ctx.setState(new Confirmado());
+        }
     }
 
     public void iniciar(int id) {
         ScrimContext ctx = scrims.get(id);
-        if (ctx != null) ctx.iniciar();
+        if (ctx != null) {
+            ctx.iniciar();
+            ctx.setState(new EnJuego());
+        }
     }
 
     public void finalizar(int id, Resultado res) {
         ScrimContext ctx = scrims.get(id);
-        if (ctx != null) ctx.finalizar();
+        if (ctx != null) {
+            ctx.finalizar();
+            ctx.setState(new Finalizado());
+        }
     }
 
     public void cancelar(int id) {
         ScrimContext ctx = scrims.get(id);
-        if (ctx != null) ctx.cancelar();
+        if (ctx != null) {
+            ctx.cancelar();
+            ctx.setState(new Cancelado());
+        }
     }
 
     public void armarLobby(int id) {
