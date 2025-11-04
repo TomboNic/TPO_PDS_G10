@@ -74,3 +74,23 @@ Eventos notificados exitosamente.
 [Push][DEV] tipo=ScrimFinalized, to=mail-to, msg=Scrim finalizado (scrim=1)
 Equipo 1: nicotom
 Equipo 2: maurimio
+[Push][DEV] tipo=ScrimCreated, to=mail-to, msg=Evento: ScrimCreated
+[Push][DEV] tipo=ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+[Push][DEV] tipo=ScrimStateChanged, to=mail-to, msg=Estado: BuscandoJugadores -> LobbyArmado (scrim=1)
+[Push][DEV] tipo=LobbyCompleted, to=mail-to, msg=Lobby completo (scrim=1)
+[Push][DEV] tipo=ScrimStateChanged, to=mail-to, msg=Estado: LobbyArmado -> Confirmado (scrim=1)
+[Push][DEV] tipo=ScrimStateChanged, to=mail-to, msg=Estado: Confirmado -> EnJuego (scrim=1)
+[Push][DEV] tipo=ScrimStateChanged, to=mail-to, msg=Estado: EnJuego -> Finalizado (scrim=1)
+[Push][DEV] tipo=ScrimFinalized, to=mail-to, msg=Scrim finalizado (scrim=1)
+Equipo 1: ntombolan
+Equipo 2: -
+
+=== CU10: Notificar Eventos ===
+Puede notificar por scrim especifico (recomendado para email a participantes).
+[Push][DEV] tipo=ScrimCreated, to=mail-to, msg=Evento: ScrimCreated
+Cuando: 2025-11-04T19:54:40.511702200Z
+Evento generico notificado (destinatarios SMTP_TO).
+[Push][DEV] tipo=ScrimCreated, to=mail-to, msg=Evento: ScrimCreated
+Cuando: 2025-11-04T19:56:03.688541200Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+Cuando: 2025-11-04T19:56:09.171251800Z

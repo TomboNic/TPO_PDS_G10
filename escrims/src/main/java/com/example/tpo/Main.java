@@ -158,6 +158,15 @@ public class Main {
             return;
         }
 
+        if (!com.example.tpo.views.UI.isValidEmail(email)) {
+            System.out.println("Email invalido.");
+            return;
+        }
+        if (password.length() < 6) {
+            System.out.println("Password muy corta (min 6).");
+            return;
+        }
+
         Usuario usuario = um.registrar(nombre, apellido, username, email, password);
         
         if (usuario != null) {
@@ -225,6 +234,9 @@ public class Main {
         }
 
         int id = facade.crearScrim(cuposPorLado);
+        // Registrar creador para notificaciones y trazabilidad
+        Scrim creado = facade.getScrim(id);
+        if (creado != null) creado.setCreador(usuarioActual);
         System.out.println("Scrim creado con ID: " + id);
         System.out.println("Formato: " + cuposPorLado + "vs" + cuposPorLado);
         printEstado(facade.getContext(id));
@@ -249,6 +261,12 @@ public class Main {
         Scrim s = facade.getScrim(scrimId);
         if (s == null) {
             System.out.println("No se encontró el scrim con ID " + scrimId);
+            return;
+        }
+
+        // Evitar postulacion duplicada
+        if (s.getEquipo1().contains(usuarioActual) || s.getEquipo2().contains(usuarioActual) || s.getSuplentes().contains(usuarioActual)) {
+            System.out.println("Ya estas postulado o en un equipo de este scrim.");
             return;
         }
 
@@ -345,6 +363,11 @@ public class Main {
         if (!"LobbyArmado".equals(estado6)) {
             printEstado(ctx6);
             System.out.println("No se puede confirmar: el scrim no esta en LobbyArmado.");
+            return;
+        }
+        boolean esParticipante = s6.getEquipo1().contains(usuarioActual) || s6.getEquipo2().contains(usuarioActual) || s6.getSuplentes().contains(usuarioActual);
+        if (!esParticipante) {
+            System.out.println("No estas en este scrim.");
             return;
         }
         facade.confirmar(scrimId, usuarioActual);

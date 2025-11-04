@@ -36,7 +36,13 @@ public class NotificationSubscriber implements ISubscriber {
             String extra = rosterResumen(sf.getScrimId());
             contenido = "Scrim finalizado (scrim=" + sf.getScrimId() + ")" + (extra.isEmpty() ? "" : "\n" + extra);
         }
-        notif.setContenido(contenido);
+        // Mejorar subject y cuerpo
+        int __sid = extractScrimId(e);
+        if (__sid > 0) {
+            notif.setTipoNotificacion("[Scrim #" + __sid + "] " + notif.getTipoNotificacion());
+        }
+        notif.setContenido(buildContenido(e));
+        
 
         // Preferir email si hay configuracion SMTP valida
         MailConfig cfg = MailConfig.load();
@@ -79,6 +85,30 @@ public class NotificationSubscriber implements ISubscriber {
     public void setFactory(INotificadorFactory factory) { this.factory = factory; }
     public void setFacade(ScrimFacade facade) { this.facade = facade; }
 
+    private String buildContenido(IDomainEvent e) {
+        String now = java.time.Instant.now().toString();
+        if (e instanceof ScrimStateChanged sc) {
+            String details = scrimDetails(sc.getScrimId());
+            return "Estado: " + (sc.getFrom() != null ? sc.getFrom() : "(init)") + " -> " + sc.getTo() + " (scrim=" + sc.getScrimId() + ")\n"
+                + (details.isEmpty() ? "" : details + "\n")
+                + "Cuando: " + now;
+        } else if (e instanceof LobbyCompleted lc) {
+            String details = scrimDetails(lc.getScrimId());
+            return "Lobby completo (scrim=" + lc.getScrimId() + ")\n"
+                + (details.isEmpty() ? "" : details + "\n")
+                + "Cuando: " + now;
+        } else if (e instanceof ScrimFinalized sf) {
+            String extra = rosterResumen(sf.getScrimId());
+            String details = scrimDetails(sf.getScrimId());
+            return "Scrim finalizado (scrim=" + sf.getScrimId() + ")\n"
+                + (details.isEmpty() ? "" : details + "\n")
+                + extra + (extra.isEmpty() ? "" : "\n")
+                + "Gracias por jugar.\n"
+                + "Cuando: " + now;
+        }
+        return "Evento: " + e.getClass().getSimpleName() + "\nCuando: " + now;
+    }
+
     private String resolveRecipientsCsv(IDomainEvent e, MailConfig cfg) {
         StringBuilder sb = new StringBuilder();
         int scrimId = -1;
@@ -89,6 +119,9 @@ public class NotificationSubscriber implements ISubscriber {
             Scrim s = facade.getScrim(scrimId);
             java.util.LinkedHashSet<String> set = new java.util.LinkedHashSet<>();
             if (s != null) {
+                if (s.getCreador() != null && s.getCreador().getEmail() != null && !s.getCreador().getEmail().isBlank()) {
+                    set.add(s.getCreador().getEmail());
+                }
                 s.getEquipo1().forEach(u -> addEmail(set, u));
                 s.getEquipo2().forEach(u -> addEmail(set, u));
                 s.getSuplentes().forEach(u -> addEmail(set, u));
@@ -120,4 +153,26 @@ public class NotificationSubscriber implements ISubscriber {
         if (u == null) return "?";
         return u.getNombreUsuario() != null ? u.getNombreUsuario() : (u.getEmail() != null ? u.getEmail() : u.toString());
     }
+
+    private int extractScrimId(IDomainEvent e) {
+        if (e instanceof ScrimStateChanged sc) return sc.getScrimId();
+        if (e instanceof LobbyCompleted lc) return lc.getScrimId();
+        if (e instanceof ScrimFinalized sf) return sf.getScrimId();
+        return -1;
+    }
+
+    private String scrimDetails(int scrimId) {
+        if (facade == null || scrimId <= 0) return "";
+        Scrim s = facade.getScrim(scrimId);
+        if (s == null) return "";
+        String formato = (s.getCupos() > 0) ? (s.getCupos()/2 + "vs" + s.getCupos()/2) : "";
+        String fecha = (s.getFechaHora() != null) ? s.getFechaHora().toString() : "";
+        String region = (s.getRegion() != null) ? s.getRegion().toString() : "";
+        StringBuilder sb = new StringBuilder();
+        if (!formato.isEmpty()) sb.append("Formato: ").append(formato);
+        if (!fecha.isEmpty()) { if (sb.length()>0) sb.append(" | "); sb.append("Fecha: ").append(fecha); }
+        if (!region.isEmpty()) { if (sb.length()>0) sb.append(" | "); sb.append("Region: ").append(region); }
+        return sb.toString();
+    }
 }
+

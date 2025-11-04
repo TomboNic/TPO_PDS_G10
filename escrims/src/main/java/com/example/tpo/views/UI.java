@@ -102,5 +102,14 @@ public final class UI {
 
         System.out.println("+" + repeat('=', inner) + "+");
     }
-}
 
+    // Simple helpers for validations and prompts (optional usage)
+    public static boolean isValidEmail(String email) {
+        if (email == null) return false;
+        String e = email.trim();
+        if (e.isEmpty()) return false;
+        int at = e.indexOf('@');
+        int dot = e.lastIndexOf('.');
+        return at > 0 && dot > at + 1 && dot < e.length() - 1;
+    }
+}

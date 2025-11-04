@@ -1,3 +1,9 @@
 # Local SMTP configuration (keep secrets out of git)
 config/mail.properties
-
+target/
+*.iml
+.idea/
+.classpath
+.project
+.settings/
+views/*.log

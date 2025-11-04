@@ -66,13 +66,24 @@ public class SimpleJavaMailAdapter implements IAdapterJavaMail {
             MimeMessage message = new MimeMessage(session);
             message.setFrom(new InternetAddress(from != null && !from.isBlank() ? from : user));
             message.setRecipients(Message.RecipientType.TO, InternetAddress.parse(n.getDestinatario().getEmail()));
-            message.setSubject(n.getTipoNotificacion() != null ? n.getTipoNotificacion() : "Notificacion");
-            message.setText(n.getContenido() != null ? n.getContenido() : "");
+            String subject = n.getTipoNotificacion() != null ? n.getTipoNotificacion() : "Notificacion";
+            message.setSubject("[Escrims] " + subject, "UTF-8");
+
+            String body = n.getContenido() != null ? n.getContenido() : "";
+            String html = "<html><body style='font-family:Arial,sans-serif'>" +
+                    "<h3>" + escapeHtml(subject) + "</h3>" +
+                    "<pre style='white-space:pre-wrap; font-family:inherit;'>" + escapeHtml(body) + "</pre>" +
+                    "</body></html>";
+            message.setContent(html, "text/html; charset=UTF-8");
 
             Transport.send(message);
             System.out.println("[Email] Enviado a " + n.getDestinatario().getEmail());
         } catch (Exception ex) {
             System.out.println("[Email] Error enviando: " + ex.getMessage());
         }
+    }
+
+    private static String escapeHtml(String s) {
+        return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;");
     }
 }

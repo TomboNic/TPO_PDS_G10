@@ -2212,3 +2212,406 @@ Presione ENTER para continuar...
 0. Salir
 
 Seleccione una opción: 
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU1: Registrar Usuario ===
+Ingrese los datos del usuario:
+Nombre: Apellido: Username: Email: Password: 
+¡Registro exitoso!
+Datos del usuario registrado:
+Nombre completo: Nicolas Tombolan
+Username: ntombolan
+Email: ntombolan@uade.edu.ar
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU2: Autenticar Usuario ===
+Email: Password: 
+¡Autenticación exitosa!
+Bienvenido Nicolas Tombolan
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU3: Crear Scrim ===
+Seleccione el formato del Scrim:
+1. 1vs1
+2. 3vs3
+3. 5vs5
+Formato: [Push][DEV] tipo=ScrimCreated, to=mail-to, msg=Evento: ScrimCreated
+[Email] Enviado a nicolastombo217@gmail.com
+[Push][DEV] tipo=ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+[Email] Enviado a nicolastombo217@gmail.com
+Scrim creado con ID: 1
+Formato: 3vs3
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: BuscandoJugadores
++--------------------------------------------------------------+
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU4: Postularse a Scrim ===
+Ingrese el ID del scrim: Seleccione su rol:
+1. TOP
+2. JUNGLE
+3. MID
+4. ADC
+5. SUPPORT
+Rol: Postulación realizada.
+
+Cupos por equipo: 3
+Equipo1: 1/3 jugadores
+Equipo2: 0/3 jugadores
++==============================================================+
+|                           Rosters                            |
++--------------------------------------------------------------+
+|Equipo 1                       Equipo 2                       |
++--------------------------------------------------------------+
+|ntombolan                                                     |
++==============================================================+
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU5: Emparejar y Armar Lobby ===
+Ingrese el ID del scrim: [Push][DEV] tipo=ScrimStateChanged, to=mail-to, msg=Estado: BuscandoJugadores -> LobbyArmado (scrim=1)
+[Email] Enviado a ntombolan@uade.edu.ar
+[Push][DEV] tipo=LobbyCompleted, to=mail-to, msg=Lobby completo (scrim=1)
+[Email] Enviado a ntombolan@uade.edu.ar
+Lobby armado.
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: LobbyArmado
++--------------------------------------------------------------+
++==============================================================+
+|                           Rosters                            |
++--------------------------------------------------------------+
+|Equipo 1                       Equipo 2                       |
++--------------------------------------------------------------+
+|ntombolan                                                     |
++==============================================================+
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU7: Iniciar Scrim ===
+Ingrese el ID del scrim: +--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: LobbyArmado
++--------------------------------------------------------------+
+No se puede iniciar: el scrim debe estar Confirmado.
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU6: Confirmar Participación ===
+Precondición: Lobby armado
+Ingrese el ID del scrim: [Push][DEV] tipo=ScrimStateChanged, to=mail-to, msg=Estado: LobbyArmado -> Confirmado (scrim=1)
+[Email] Enviado a ntombolan@uade.edu.ar
+Usuario ntombolan confirmó participación
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: Confirmado
++--------------------------------------------------------------+
+Postcondición: Participación confirmada para el usuario ntombolan
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU7: Iniciar Scrim ===
+Ingrese el ID del scrim: [Push][DEV] tipo=ScrimStateChanged, to=mail-to, msg=Estado: Confirmado -> EnJuego (scrim=1)
+[Email] Enviado a ntombolan@uade.edu.ar
+Scrim iniciado.
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: EnJuego
++--------------------------------------------------------------+
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU8: Finalizar y Cargar Estadísticas ===
+Ingrese el ID del scrim: [Push][DEV] tipo=ScrimStateChanged, to=mail-to, msg=Estado: EnJuego -> Finalizado (scrim=1)
+[Email] Enviado a ntombolan@uade.edu.ar
+[Push][DEV] tipo=ScrimFinalized, to=mail-to, msg=Scrim finalizado (scrim=1)
+Equipo 1: ntombolan
+Equipo 2: -
+[Email] Enviado a ntombolan@uade.edu.ar
+Scrim finalizado y estadísticas cargadas.
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: Finalizado
++--------------------------------------------------------------+
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: [Notif] 
+=== CU10: Notificar Eventos ===
+[Notif] Puede notificar por scrim especifico (recomendado para email a participantes).
+Ingrese ID de scrim (o ENTER para usar fallback SMTP_TO): [Push][DEV] tipo=ScrimCreated, to=mail-to, msg=Evento: ScrimCreated
+Cuando: 2025-11-04T19:54:40.511702200Z
+[Email] Enviado a nicolastombo217@gmail.com
+[Notif] Evento generico notificado (destinatarios SMTP_TO).
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU1: Registrar Usuario ===
+Ingrese los datos del usuario:
+Nombre: Apellido: Username: Email: Password: 
+¡Registro exitoso!
+Datos del usuario registrado:
+Nombre completo: Nicolas Tombolan
+Username: ntombolan
+Email: ntombolan@uade.edu.ar
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU2: Autenticar Usuario ===
+Email: Password: 
+¡Autenticación exitosa!
+Bienvenido Nicolas Tombolan
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU3: Crear Scrim ===
+Seleccione el formato del Scrim:
+1. 1vs1
+2. 3vs3
+3. 5vs5
+Formato: [Push][DEV] tipo=ScrimCreated, to=mail-to, msg=Evento: ScrimCreated
+Cuando: 2025-11-04T19:56:03.688541200Z
+[Email] Enviado a nicolastombo217@gmail.com
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+Cuando: 2025-11-04T19:56:09.171251800Z
+[Email] Enviado a nicolastombo217@gmail.com
+Scrim creado con ID: 1
+Formato: 1vs1
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: BuscandoJugadores
++--------------------------------------------------------------+
+
+Presione ENTER para continuar...
