@@ -1,0 +1,3 @@
+# Local SMTP configuration (keep secrets out of git)
+config/mail.properties
+

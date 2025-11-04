@@ -24,3 +24,53 @@
 Simulando notificaciones del sistema...
 [Push][DEV] tipo=ScrimCreated, to=(broadcast), msg=Evento: ScrimCreated
 Eventos notificados exitosamente.
+[Push][DEV] tipo=ScrimCreated, to=(broadcast), msg=Evento: ScrimCreated
+[Push][DEV] tipo=ScrimStateChanged, to=(broadcast), msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+[Push][DEV] tipo=ScrimStateChanged, to=(broadcast), msg=Estado: BuscandoJugadores -> LobbyArmado (scrim=1)
+[Push][DEV] tipo=LobbyCompleted, to=(broadcast), msg=Lobby completo (scrim=1)
+[Push][DEV] tipo=ScrimStateChanged, to=(broadcast), msg=Estado: LobbyArmado -> Confirmado (scrim=1)
+[Push][DEV] tipo=ScrimStateChanged, to=(broadcast), msg=Estado: Confirmado -> EnJuego (scrim=1)
+[Push][DEV] tipo=ScrimStateChanged, to=(broadcast), msg=Estado: EnJuego -> Finalizado (scrim=1)
+[Push][DEV] tipo=ScrimFinalized, to=(broadcast), msg=Scrim finalizado (scrim=1)
+
+=== CU10: Notificar Eventos ===
+Simulando notificaciones del sistema...
+[Push][DEV] tipo=ScrimCreated, to=(broadcast), msg=Evento: ScrimCreated
+Eventos notificados exitosamente.
+[Push][DEV] tipo=ScrimCreated, to=(broadcast), msg=Evento: ScrimCreated
+[Push][DEV] tipo=ScrimStateChanged, to=(broadcast), msg=Estado: (init) -> BuscandoJugadores (scrim=2)
+[Push][DEV] tipo=ScrimStateChanged, to=(broadcast), msg=Estado: BuscandoJugadores -> Cancelado (scrim=2)
+[Push][DEV] tipo=ScrimCreated, to=(broadcast), msg=Evento: ScrimCreated
+[Push][DEV] tipo=ScrimStateChanged, to=(broadcast), msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+[Push][DEV] tipo=ScrimStateChanged, to=(broadcast), msg=Estado: BuscandoJugadores -> LobbyArmado (scrim=1)
+[Push][DEV] tipo=LobbyCompleted, to=(broadcast), msg=Lobby completo (scrim=1)
+[Push][DEV] tipo=ScrimStateChanged, to=(broadcast), msg=Estado: LobbyArmado -> Confirmado (scrim=1)
+[Push][DEV] tipo=ScrimStateChanged, to=(broadcast), msg=Estado: Confirmado -> EnJuego (scrim=1)
+[Push][DEV] tipo=ScrimStateChanged, to=(broadcast), msg=Estado: EnJuego -> Finalizado (scrim=1)
+[Push][DEV] tipo=ScrimFinalized, to=(broadcast), msg=Scrim finalizado (scrim=1)
+[Push][DEV] tipo=ScrimCreated, to=(broadcast), msg=Evento: ScrimCreated
+[Push][DEV] tipo=ScrimStateChanged, to=(broadcast), msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+[Push][DEV] tipo=ScrimStateChanged, to=(broadcast), msg=Estado: BuscandoJugadores -> LobbyArmado (scrim=1)
+[Push][DEV] tipo=LobbyCompleted, to=(broadcast), msg=Lobby completo (scrim=1)
+
+=== CU10: Notificar Eventos ===
+Simulando notificaciones del sistema...
+[Push][DEV] tipo=ScrimCreated, to=mail-to, msg=Evento: ScrimCreated
+Eventos notificados exitosamente.
+
+=== CU10: Notificar Eventos ===
+Simulando notificaciones del sistema...
+[Push][DEV] tipo=ScrimCreated, to=mail-to, msg=Evento: ScrimCreated
+Eventos notificados exitosamente.
+[Push][DEV] tipo=ScrimCreated, to=mail-to, msg=Evento: ScrimCreated
+[Push][DEV] tipo=ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+[Push][DEV] tipo=ScrimCreated, to=(broadcast), msg=Evento: ScrimCreated
+[Push][DEV] tipo=ScrimStateChanged, to=(broadcast), msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+[Push][DEV] tipo=ScrimStateChanged, to=mail-to, msg=Estado: BuscandoJugadores -> LobbyArmado (scrim=1)
+[Push][DEV] tipo=LobbyCompleted, to=mail-to, msg=Lobby completo (scrim=1)
+[Push][DEV] tipo=ScrimStateChanged, to=mail-to, msg=Estado: LobbyArmado -> Confirmado (scrim=1)
+[Push][DEV] tipo=ScrimStateChanged, to=mail-to, msg=Estado: Confirmado -> EnJuego (scrim=1)
+[Push][DEV] tipo=ScrimStateChanged, to=mail-to, msg=Estado: EnJuego -> Finalizado (scrim=1)
+[Push][DEV] tipo=ScrimFinalized, to=mail-to, msg=Scrim finalizado (scrim=1)
+Equipo 1: nicotom
+Equipo 2: maurimio

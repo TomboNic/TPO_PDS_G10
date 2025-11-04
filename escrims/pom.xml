@@ -11,6 +11,15 @@
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
-    </properties>
+</properties>
+
+    <dependencies>
+        <!-- JavaMail (javax.mail) for simple SMTP without Jakarta package rename -->
+        <dependency>
+            <groupId>com.sun.mail</groupId>
+            <artifactId>javax.mail</artifactId>
+            <version>1.6.2</version>
+        </dependency>
+    </dependencies>
 
 </project>
