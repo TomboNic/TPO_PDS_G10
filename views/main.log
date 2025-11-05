@@ -2615,3 +2615,2198 @@ Estado actual: BuscandoJugadores
 +--------------------------------------------------------------+
 
 Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU1: Registrar Usuario ===
+Ingrese los datos del usuario:
+Nombre: Apellido: Username: Email: Password: 
+¡Registro exitoso!
+Datos del usuario registrado:
+Nombre completo: Nicolas Tombolan
+Username: ntombolan
+Email: Nicolastombo213@gmail.com
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU2: Autenticar Usuario ===
+Email: Password: 
+¡Autenticación exitosa!
+Bienvenido Nicolas Tombolan
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU3: Crear Scrim ===
+Seleccione el formato del Scrim:
+1. 1vs1
+2. 3vs3
+3. 5vs5
+Formato: [Push][DEV] tipo=ScrimCreated, to=mail-to, msg=Evento: ScrimCreated
+Cuando: 2025-11-04T20:12:45.443489700Z
+[Email] Enviado a nicolastombo217@gmail.com
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+Cuando: 2025-11-04T20:12:50.077325700Z
+[Email] Enviado a nicolastombo217@gmail.com
+Scrim creado con ID: 1
+Formato: 1vs1
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: BuscandoJugadores
++--------------------------------------------------------------+
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU1: Registrar Usuario ===
+Ingrese los datos del usuario:
+Nombre: Apellido: Username: Email: Password: 
+¡Registro exitoso!
+Datos del usuario registrado:
+Nombre completo: Nicolas Tombolan
+Username: ntombolal
+Email: nicolastombo217@gmail.com
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU2: Autenticar Usuario ===
+Email: Password: 
+¡Autenticación exitosa!
+Bienvenido Nicolas Tombolan
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU3: Crear Scrim ===
+Seleccione el formato del Scrim:
+1. 1vs1
+2. 3vs3
+3. 5vs5
+Formato: [Push][DEV] tipo=ScrimCreated, to=mail-to, msg=Evento: ScrimCreated
+Cuando: 2025-11-04T20:16:20.283787Z
+[Email] Enviado a nicolastombo217@gmail.com
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+Cuando: 2025-11-04T20:16:26.311516600Z
+[Email] Enviado a nicolastombo217@gmail.com
+Scrim creado con ID: 1
+Formato: 1vs1
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: BuscandoJugadores
++--------------------------------------------------------------+
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-04T20:16:20.281994700Z
+Cuando: 2025-11-04T20:16:29.783512800Z
+[Email] Enviado a nicolastombo217@gmail.com
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU4: Postularse a Scrim ===
+Ingrese el ID del scrim: Seleccione su rol:
+1. TOP
+2. JUNGLE
+3. MID
+4. ADC
+5. SUPPORT
+Rol: Postulación realizada.
+
+Cupos por equipo: 1
+Equipo1: 1/1 jugadores
+Equipo2: 0/1 jugadores
++==============================================================+
+|                           Rosters                            |
++--------------------------------------------------------------+
+|Equipo 1                       Equipo 2                       |
++--------------------------------------------------------------+
+|ntombolal                                                     |
++==============================================================+
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU1: Registrar Usuario ===
+Ingrese los datos del usuario:
+Nombre: Apellido: Username: Email: Password: 
+¡Registro exitoso!
+Datos del usuario registrado:
+Nombre completo: Mateo Duran
+Username: matdur
+Email: nicolastombo213@gmail.com
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU2: Autenticar Usuario ===
+Email: Password: 
+¡Autenticación exitosa!
+Bienvenido Mateo Duran
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU4: Postularse a Scrim ===
+Ingrese el ID del scrim: Seleccione su rol:
+1. TOP
+2. JUNGLE
+3. MID
+4. ADC
+5. SUPPORT
+Rol: [Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: BuscandoJugadores -> LobbyArmado (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-04T20:16:20.281994700Z
+Cuando: 2025-11-04T20:17:46.321209300Z
+[Email] Enviado a nicolastombo217@gmail.com,nicolastombo213@gmail.com
+[Push][DEV] tipo=[Scrim #1] LobbyCompleted, to=mail-to, msg=Lobby completo (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-04T20:16:20.281994700Z
+Cuando: 2025-11-04T20:17:52.041383400Z
+[Email] Enviado a nicolastombo217@gmail.com,nicolastombo213@gmail.com
+Postulación realizada.
+
+Cupos por equipo: 1
+Equipo1: 1/1 jugadores
+Equipo2: 1/1 jugadores
++==============================================================+
+|                           Rosters                            |
++--------------------------------------------------------------+
+|Equipo 1                       Equipo 2                       |
++--------------------------------------------------------------+
+|ntombolal                      matdur                         |
++==============================================================+
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU5: Emparejar y Armar Lobby ===
+Ingrese el ID del scrim: Lobby armado.
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: LobbyArmado
++--------------------------------------------------------------+
++==============================================================+
+|                           Rosters                            |
++--------------------------------------------------------------+
+|Equipo 1                       Equipo 2                       |
++--------------------------------------------------------------+
+|ntombolal                      matdur                         |
++==============================================================+
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU6: Confirmar Participación ===
+Precondición: Lobby armado
+Ingrese el ID del scrim: [Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: LobbyArmado -> Confirmado (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-04T20:16:20.281994700Z
+Cuando: 2025-11-04T20:18:43.373061100Z
+[Email] Enviado a nicolastombo217@gmail.com,nicolastombo213@gmail.com
+Usuario matdur confirmó participación
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: Confirmado
++--------------------------------------------------------------+
+Postcondición: Participación confirmada para el usuario matdur
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU7: Iniciar Scrim ===
+Ingrese el ID del scrim: [Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: Confirmado -> EnJuego (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-04T20:16:20.281994700Z
+Cuando: 2025-11-04T20:19:14.571134900Z
+[Email] Enviado a nicolastombo217@gmail.com,nicolastombo213@gmail.com
+Scrim iniciado.
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: EnJuego
++--------------------------------------------------------------+
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU8: Finalizar y Cargar Estadísticas ===
+Ingrese el ID del scrim: [Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: EnJuego -> Finalizado (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-04T20:16:20.281994700Z
+Cuando: 2025-11-04T20:19:36.135221800Z
+[Email] Enviado a nicolastombo217@gmail.com,nicolastombo213@gmail.com
+[Push][DEV] tipo=[Scrim #1] ScrimFinalized, to=mail-to, msg=Scrim finalizado (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-04T20:16:20.281994700Z
+Equipo 1: ntombolal
+Equipo 2: matdur
+Gracias por jugar.
+Cuando: 2025-11-04T20:19:40.499056100Z
+[Email] Enviado a nicolastombo217@gmail.com,nicolastombo213@gmail.com
+Scrim finalizado y estadísticas cargadas.
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: Finalizado
++--------------------------------------------------------------+
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
+=== CU12: Reportar Jugador ===
+Ingrese el ID del scrim: Seleccionar jugador a reportar:
+  1) ntombolal
+  2) matdur
+Opcion: Motivo:
+ 1) Toxicidad
+ 2) No Show
+ 3) Abandono
+ 4) Fraude
+Elija motivo: Descripcion (opcional): Reporte enviado. Gracias por colaborar.
+
+Presione ENTER para continuar...
+
+=== Sistema de Scrims ===
+1. Registrar Usuario
+2. Autenticar Usuario
+3. Crear Scrim
+4. Postularse a Scrim
+5. Emparejar y Armar Lobby
+6. Confirmar Participación
+7. Iniciar Scrim
+8. Finalizar y Cargar Estadísticas
+9. Cancelar Scrim
+10. Notificar Eventos
+11. Moderar Reportes
+12. Reportar Jugador
+0. Salir
+
+Seleccione una opción: 
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU1: Registrar Usuario ===
+Ingrese los datos del usuario:
+Nombre: Apellido: Username: Email: Password: 
+Registro exitoso!
+Nombre completo: Nicolas  Tombolan
+Username: ntombolan
+Email: nicolastombo213@gmail.com
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU2: Autenticar Usuario ===
+Email: Password: 
+Autenticacion exitosa! Bienvenido Nicolas  Tombolan
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU3: Crear Scrim ===
+Seleccione el formato del Scrim:
+1. 1vs1
+2. 3vs3
+3. 5vs5
+Formato: [Push][DEV] tipo=ScrimCreated, to=mail-to, msg=Evento: ScrimCreated
+Cuando: 2025-11-05T02:23:28.129761500Z
+[Email] Enviado a nicolastombo217@gmail.com
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+Cuando: 2025-11-05T02:23:33.101250600Z
+[Email] Enviado a nicolastombo217@gmail.com
+Scrim creado con ID: 1
+Formato: 1vs1
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: BuscandoJugadores
++--------------------------------------------------------------+
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-05T02:23:28.112552100Z
+Cuando: 2025-11-05T02:23:36.309955400Z
+[Email] Enviado a nicolastombo213@gmail.com
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU4: Postularse a Scrim ===
+Ingrese el ID del scrim: Seleccione su rol:
+1. TOP
+2. JUNGLE
+3. MID
+4. ADC
+5. SUPPORT
+Rol: Postulacion realizada.
+Cupos por equipo: 1
++==============================================================+
+|                           Rosters                            |
++--------------------------------------------------------------+
+|Equipo 1                       Equipo 2                       |
++--------------------------------------------------------------+
+|ntombolan                                                     |
++==============================================================+
++==============================================================+
+|                           Rosters                            |
++--------------------------------------------------------------+
+|Equipo 1                       Equipo 2                       |
++--------------------------------------------------------------+
+|ntombolan                                                     |
++==============================================================+
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU6: Confirmar Participacion ===
+Precondicion: Lobby armado
+Ingrese el ID del scrim: +--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: BuscandoJugadores
++--------------------------------------------------------------+
+No se puede confirmar: el scrim no esta en LobbyArmado.
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU5: Emparejar y Armar Lobby ===
+Ingrese el ID del scrim: [Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: BuscandoJugadores -> LobbyArmado (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-05T02:23:28.112552100Z
+Cuando: 2025-11-05T02:24:55.153849600Z
+[Email] Enviado a nicolastombo213@gmail.com
+[Push][DEV] tipo=[Scrim #1] LobbyCompleted, to=mail-to, msg=Lobby completo (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-05T02:23:28.112552100Z
+Cuando: 2025-11-05T02:24:59.079489700Z
+[Email] Enviado a nicolastombo213@gmail.com
+Lobby armado.
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: LobbyArmado
++--------------------------------------------------------------+
++==============================================================+
+|                           Rosters                            |
++--------------------------------------------------------------+
+|Equipo 1                       Equipo 2                       |
++--------------------------------------------------------------+
+|ntombolan                                                     |
++==============================================================+
++==============================================================+
+|                           Rosters                            |
++--------------------------------------------------------------+
+|Equipo 1                       Equipo 2                       |
++--------------------------------------------------------------+
+|ntombolan                                                     |
++==============================================================+
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU1: Registrar Usuario ===
+Ingrese los datos del usuario:
+Nombre: Apellido: Username: Email: Password: 
+Registro exitoso!
+Nombre completo: n t
+Username: ntom
+Email: nicolastombo213@gmail.com
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+Debe autenticarse primero para crear un scrim.
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU2: Autenticar Usuario ===
+Email: Password: 
+Autenticacion exitosa! Bienvenido n t
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU3: Crear Scrim ===
+Seleccione el formato del Scrim:
+1. 1vs1
+2. 3vs3
+3. 5vs5
+Formato: [Push][DEV] tipo=ScrimCreated, to=mail-to, msg=Evento: ScrimCreated
+Cuando: 2025-11-05T02:27:29.392637300Z
+[Email] Enviado a nicolastombo217@gmail.com
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+Cuando: 2025-11-05T02:27:34.307354Z
+[Email] Enviado a nicolastombo217@gmail.com
+Scrim creado con ID: 1
+Formato: 1vs1
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: BuscandoJugadores
++--------------------------------------------------------------+
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-05T02:27:29.392637300Z
+Cuando: 2025-11-05T02:27:37.209293100Z
+[Email] Enviado a nicolastombo213@gmail.com
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU4: Postularse a Scrim ===
+Ingrese el ID del scrim: Seleccione su rol:
+1. TOP
+2. JUNGLE
+3. MID
+4. ADC
+5. SUPPORT
+Rol: Postulacion realizada.
+Cupos por equipo: 1
++==============================================================+
+|                           Rosters                            |
++--------------------------------------------------------------+
+|Equipo 1                       Equipo 2                       |
++--------------------------------------------------------------+
+|ntom                                                          |
++==============================================================+
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU5: Emparejar y Armar Lobby ===
+Ingrese el ID del scrim: [Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: BuscandoJugadores -> LobbyArmado (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-05T02:27:29.392637300Z
+Cuando: 2025-11-05T02:27:55.860205800Z
+[Email] Enviado a nicolastombo213@gmail.com
+[Push][DEV] tipo=[Scrim #1] LobbyCompleted, to=mail-to, msg=Lobby completo (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-05T02:27:29.392637300Z
+Cuando: 2025-11-05T02:27:59.134842100Z
+[Email] Enviado a nicolastombo213@gmail.com
+Lobby armado.
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: LobbyArmado
++--------------------------------------------------------------+
++==============================================================+
+|                           Rosters                            |
++--------------------------------------------------------------+
+|Equipo 1                       Equipo 2                       |
++--------------------------------------------------------------+
+|ntom                                                          |
++==============================================================+
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU6: Confirmar Participacion ===
+Precondicion: Lobby armado
+Ingrese el ID del scrim: [Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: LobbyArmado -> Confirmado (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-05T02:27:29.392637300Z
+Cuando: 2025-11-05T02:28:28.221193300Z
+[Email] Enviado a nicolastombo213@gmail.com
+Usuario ntom confirmo participacion
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: Confirmado
++--------------------------------------------------------------+
+Postcondicion: Participacion confirmada para el usuario ntom
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU7: Iniciar Scrim ===
+Ingrese el ID del scrim: [Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: Confirmado -> EnJuego (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-05T02:27:29.392637300Z
+Cuando: 2025-11-05T02:28:40.703725900Z
+[Email] Enviado a nicolastombo213@gmail.com
+Scrim iniciado.
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: EnJuego
++--------------------------------------------------------------+
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU8: Finalizar y Cargar Estadisticas ===
+Ingrese el ID del scrim: [Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: EnJuego -> Finalizado (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-05T02:27:29.392637300Z
+Cuando: 2025-11-05T02:28:56.398883600Z
+[Email] Enviado a nicolastombo213@gmail.com
+[Push][DEV] tipo=[Scrim #1] ScrimFinalized, to=mail-to, msg=Scrim finalizado (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-05T02:27:29.392637300Z
+Equipo 1: ntom
+Equipo 2: -
+Gracias por jugar.
+Cuando: 2025-11-05T02:28:59.556968Z
+[Email] Enviado a nicolastombo213@gmail.com
+Scrim finalizado y estadisticas cargadas.
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: Finalizado
++--------------------------------------------------------------+
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU12: Reportar Jugador ===
+Ingrese el ID del scrim: Seleccionar jugador a reportar:
+  1) ntom
+Opcion: No puede reportarse a si mismo.
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU11: Moderar Reportes ===
+Procesando reporte de conducta...
+Reporte procesado por la cadena de moderacion.
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU11: Moderar Reportes ===
+Procesando reporte de conducta...
+Reporte procesado por la cadena de moderacion.
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU11: Moderar Reportes ===
+No hay reportes pendientes.
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU1: Registrar Usuario ===
+Ingrese los datos del usuario:
+Nombre: Apellido: Username: Email: Password: 
+Registro exitoso!
+Nombre completo: nico tombo
+Username: ntombo
+Email: nicolastombo213@gmail.com
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU2: Autenticar Usuario ===
+Email: Password: 
+Autenticacion exitosa! Bienvenido nico tombo
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU3: Crear Scrim ===
+Seleccione el formato del Scrim:
+1. 1vs1
+2. 3vs3
+3. 5vs5
+Formato: [Push][DEV] tipo=ScrimCreated, to=mail-to, msg=Evento: ScrimCreated
+Cuando: 2025-11-05T02:31:38.226073600Z
+[Email] Enviado a nicolastombo217@gmail.com
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+Cuando: 2025-11-05T02:31:42.888668600Z
+[Email] Enviado a nicolastombo217@gmail.com
+Scrim creado con ID: 1
+Formato: 3vs3
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: BuscandoJugadores
++--------------------------------------------------------------+
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+Formato: 3vs3 | Fecha: 2025-11-05T02:31:38.217377300Z
+Cuando: 2025-11-05T02:31:46.694013200Z
+[Email] Enviado a nicolastombo213@gmail.com
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU4: Postularse a Scrim ===
+Ingrese el ID del scrim: Seleccione su rol:
+1. TOP
+2. JUNGLE
+3. MID
+4. ADC
+5. SUPPORT
+Rol: Postulacion realizada.
+Cupos por equipo: 3
++==============================================================+
+|                           Rosters                            |
++--------------------------------------------------------------+
+|Equipo 1                       Equipo 2                       |
++--------------------------------------------------------------+
+|ntombo                                                        |
++==============================================================+
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU5: Emparejar y Armar Lobby ===
+Ingrese el ID del scrim: [Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: BuscandoJugadores -> LobbyArmado (scrim=1)
+Formato: 3vs3 | Fecha: 2025-11-05T02:31:38.217377300Z
+Cuando: 2025-11-05T02:32:04.289012700Z
+[Email] Enviado a nicolastombo213@gmail.com
+[Push][DEV] tipo=[Scrim #1] LobbyCompleted, to=mail-to, msg=Lobby completo (scrim=1)
+Formato: 3vs3 | Fecha: 2025-11-05T02:31:38.217377300Z
+Cuando: 2025-11-05T02:32:08.273868500Z
+[Email] Enviado a nicolastombo213@gmail.com
+Lobby armado.
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: LobbyArmado
++--------------------------------------------------------------+
++==============================================================+
+|                           Rosters                            |
++--------------------------------------------------------------+
+|Equipo 1                       Equipo 2                       |
++--------------------------------------------------------------+
+|ntombo                                                        |
++==============================================================+
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU6: Confirmar Participacion ===
+Precondicion: Lobby armado
+Ingrese el ID del scrim: [Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: LobbyArmado -> Confirmado (scrim=1)
+Formato: 3vs3 | Fecha: 2025-11-05T02:31:38.217377300Z
+Cuando: 2025-11-05T02:32:23.811411900Z
+[Email] Enviado a nicolastombo213@gmail.com
+Usuario ntombo confirmo participacion
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: Confirmado
++--------------------------------------------------------------+
+Postcondicion: Participacion confirmada para el usuario ntombo
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU6: Confirmar Participacion ===
+Precondicion: Lobby armado
+Ingrese el ID del scrim: +--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: Confirmado
++--------------------------------------------------------------+
+No se puede confirmar: el scrim no esta en LobbyArmado.
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU6: Confirmar Participacion ===
+Precondicion: Lobby armado
+Ingrese el ID del scrim: +--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: Confirmado
++--------------------------------------------------------------+
+No se puede confirmar: el scrim no esta en LobbyArmado.
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU5: Emparejar y Armar Lobby ===
+Ingrese el ID del scrim: [Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: Confirmado -> LobbyArmado (scrim=1)
+Formato: 3vs3 | Fecha: 2025-11-05T02:31:38.217377300Z
+Cuando: 2025-11-05T02:32:47.163399600Z
+[Email] Enviado a nicolastombo213@gmail.com
+[Push][DEV] tipo=[Scrim #1] LobbyCompleted, to=mail-to, msg=Lobby completo (scrim=1)
+Formato: 3vs3 | Fecha: 2025-11-05T02:31:38.217377300Z
+Cuando: 2025-11-05T02:32:50.796413Z
+[Email] Enviado a nicolastombo213@gmail.com
+Lobby armado.
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: LobbyArmado
++--------------------------------------------------------------+
++==============================================================+
+|                           Rosters                            |
++--------------------------------------------------------------+
+|Equipo 1                       Equipo 2                       |
++--------------------------------------------------------------+
+|ntombo                                                        |
++==============================================================+
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU6: Confirmar Participacion ===
+Precondicion: Lobby armado
+Ingrese el ID del scrim: [Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: LobbyArmado -> Confirmado (scrim=1)
+Formato: 3vs3 | Fecha: 2025-11-05T02:31:38.217377300Z
+Cuando: 2025-11-05T02:33:01.924802100Z
+[Email] Enviado a nicolastombo213@gmail.com
+Usuario ntombo confirmo participacion
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: Confirmado
++--------------------------------------------------------------+
+Postcondicion: Participacion confirmada para el usuario ntombo
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU7: Iniciar Scrim ===
+Ingrese el ID del scrim: [Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: Confirmado -> EnJuego (scrim=1)
+Formato: 3vs3 | Fecha: 2025-11-05T02:31:38.217377300Z
+Cuando: 2025-11-05T02:33:10.482708100Z
+[Email] Enviado a nicolastombo213@gmail.com
+Scrim iniciado.
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: EnJuego
++--------------------------------------------------------------+
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU8: Finalizar y Cargar Estadisticas ===
+Ingrese el ID del scrim: [Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: EnJuego -> Finalizado (scrim=1)
+Formato: 3vs3 | Fecha: 2025-11-05T02:31:38.217377300Z
+Cuando: 2025-11-05T02:33:26.548604900Z
+[Email] Enviado a nicolastombo213@gmail.com
+[Push][DEV] tipo=[Scrim #1] ScrimFinalized, to=mail-to, msg=Scrim finalizado (scrim=1)
+Formato: 3vs3 | Fecha: 2025-11-05T02:31:38.217377300Z
+Equipo 1: ntombo
+Equipo 2: -
+Gracias por jugar.
+Cuando: 2025-11-05T02:33:30.001652Z
+[Email] Enviado a nicolastombo213@gmail.com
+Scrim finalizado y estadisticas cargadas.
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: Finalizado
++--------------------------------------------------------------+
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU12: Reportar Jugador ===
+Ingrese el ID del scrim: Seleccionar jugador a reportar:
+  1) ntombo
+Opcion: No puede reportarse a si mismo.
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU3: Crear Scrim ===
+Seleccione el formato del Scrim:
+1. 1vs1
+2. 3vs3
+3. 5vs5
+Formato: [Push][DEV] tipo=ScrimCreated, to=mail-to, msg=Evento: ScrimCreated
+Cuando: 2025-11-05T02:34:03.366723400Z
+[Email] Enviado a nicolastombo217@gmail.com
+[Push][DEV] tipo=[Scrim #2] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=2)
+Cuando: 2025-11-05T02:34:07.163810800Z
+[Email] Enviado a nicolastombo217@gmail.com
+Scrim creado con ID: 2
+Formato: 1vs1
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: BuscandoJugadores
++--------------------------------------------------------------+
+[Push][DEV] tipo=[Scrim #2] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=2)
+Formato: 1vs1 | Fecha: 2025-11-05T02:34:03.365338300Z
+Cuando: 2025-11-05T02:34:10.377664400Z
+[Email] Enviado a nicolastombo213@gmail.com
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU1: Registrar Usuario ===
+Ingrese los datos del usuario:
+Nombre: Apellido: Username: Email: Password: 
+Registro exitoso!
+Nombre completo: sd asd
+Username: ad
+Email: nicolastombo21@gmail.com
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU2: Autenticar Usuario ===
+Email: Password: 
+Error de autenticacion. Credenciales invalidas.
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU2: Autenticar Usuario ===
+Email: Password: 
+Autenticacion exitosa! Bienvenido sd asd
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU3: Crear Scrim ===
+Seleccione el formato del Scrim:
+1. 1vs1
+2. 3vs3
+3. 5vs5
+Formato: [Push][DEV] tipo=ScrimCreated, to=mail-to, msg=Evento: ScrimCreated
+Cuando: 2025-11-05T02:34:59.927290900Z
+[Email] Enviado a nicolastombo217@gmail.com
+[Push][DEV] tipo=[Scrim #3] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=3)
+Cuando: 2025-11-05T02:35:03.285344500Z
+[Email] Enviado a nicolastombo217@gmail.com
+Scrim creado con ID: 3
+Formato: 1vs1
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: BuscandoJugadores
++--------------------------------------------------------------+
+[Push][DEV] tipo=[Scrim #3] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=3)
+Formato: 1vs1 | Fecha: 2025-11-05T02:34:59.927290900Z
+Cuando: 2025-11-05T02:35:06.479829900Z
+[Email] Enviado a nicolastombo21@gmail.com
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU2: Autenticar Usuario ===
+Email: Password: 
+Autenticacion exitosa! Bienvenido sd asd
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU4: Postularse a Scrim ===
+Ingrese el ID del scrim: Seleccione su rol:
+1. TOP
+2. JUNGLE
+3. MID
+4. ADC
+5. SUPPORT
+Rol: Postulacion realizada.
+Cupos por equipo: 1
++==============================================================+
+|                           Rosters                            |
++--------------------------------------------------------------+
+|Equipo 1                       Equipo 2                       |
++--------------------------------------------------------------+
+|ad                                                            |
++==============================================================+
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU2: Autenticar Usuario ===
+Email: Password: 
+Autenticacion exitosa! Bienvenido sd asd
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU4: Postularse a Scrim ===
+Ingrese el ID del scrim: Ya estas postulado o en un equipo de este scrim.
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU2: Autenticar Usuario ===
+Email: Password: 
+Autenticacion exitosa! Bienvenido sd asd
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU4: Postularse a Scrim ===
+Ingrese el ID del scrim: Ya estas postulado o en un equipo de este scrim.
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU2: Autenticar Usuario ===
+Email: Password: 
+Autenticacion exitosa! Bienvenido nico tombo
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU4: Postularse a Scrim ===
+Ingrese el ID del scrim: Seleccione su rol:
+1. TOP
+2. JUNGLE
+3. MID
+4. ADC
+5. SUPPORT
+Rol: [Push][DEV] tipo=[Scrim #2] ScrimStateChanged, to=mail-to, msg=Estado: BuscandoJugadores -> LobbyArmado (scrim=2)
+Formato: 1vs1 | Fecha: 2025-11-05T02:34:03.365338300Z
+Cuando: 2025-11-05T02:36:37.408422600Z
+[Email] Enviado a nicolastombo213@gmail.com,nicolastombo21@gmail.com
+[Push][DEV] tipo=[Scrim #2] LobbyCompleted, to=mail-to, msg=Lobby completo (scrim=2)
+Formato: 1vs1 | Fecha: 2025-11-05T02:34:03.365338300Z
+Cuando: 2025-11-05T02:36:40.976338400Z
+[Email] Enviado a nicolastombo213@gmail.com,nicolastombo21@gmail.com
+Postulacion realizada.
+Cupos por equipo: 1
++==============================================================+
+|                           Rosters                            |
++--------------------------------------------------------------+
+|Equipo 1                       Equipo 2                       |
++--------------------------------------------------------------+
+|ad                             ntombo                         |
++==============================================================+
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU5: Emparejar y Armar Lobby ===
+Ingrese el ID del scrim: [Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: Finalizado -> LobbyArmado (scrim=1)
+Formato: 3vs3 | Fecha: 2025-11-05T02:31:38.217377300Z
+Cuando: 2025-11-05T02:36:49.814097800Z
+[Email] Enviado a nicolastombo213@gmail.com
+[Push][DEV] tipo=[Scrim #1] LobbyCompleted, to=mail-to, msg=Lobby completo (scrim=1)
+Formato: 3vs3 | Fecha: 2025-11-05T02:31:38.217377300Z
+Cuando: 2025-11-05T02:36:53.774485200Z
+[Email] Enviado a nicolastombo213@gmail.com
+Lobby armado.
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: LobbyArmado
++--------------------------------------------------------------+
++==============================================================+
+|                           Rosters                            |
++--------------------------------------------------------------+
+|Equipo 1                       Equipo 2                       |
++--------------------------------------------------------------+
+|ntombo                                                        |
++==============================================================+
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU5: Emparejar y Armar Lobby ===
+Ingrese el ID del scrim: Lobby armado.
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: LobbyArmado
++--------------------------------------------------------------+
++==============================================================+
+|                           Rosters                            |
++--------------------------------------------------------------+
+|Equipo 1                       Equipo 2                       |
++--------------------------------------------------------------+
+|ad                             ntombo                         |
++==============================================================+
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU6: Confirmar Participacion ===
+Precondicion: Lobby armado
+Ingrese el ID del scrim: [Push][DEV] tipo=[Scrim #2] ScrimStateChanged, to=mail-to, msg=Estado: LobbyArmado -> Confirmado (scrim=2)
+Formato: 1vs1 | Fecha: 2025-11-05T02:34:03.365338300Z
+Cuando: 2025-11-05T02:37:37.625158900Z
+[Email] Enviado a nicolastombo213@gmail.com,nicolastombo21@gmail.com
+Usuario ntombo confirmo participacion
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: Confirmado
++--------------------------------------------------------------+
+Postcondicion: Participacion confirmada para el usuario ntombo
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU7: Iniciar Scrim ===
+Ingrese el ID del scrim: [Push][DEV] tipo=[Scrim #2] ScrimStateChanged, to=mail-to, msg=Estado: Confirmado -> EnJuego (scrim=2)
+Formato: 1vs1 | Fecha: 2025-11-05T02:34:03.365338300Z
+Cuando: 2025-11-05T02:37:53.527973400Z
+[Email] Enviado a nicolastombo213@gmail.com,nicolastombo21@gmail.com
+Scrim iniciado.
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: EnJuego
++--------------------------------------------------------------+
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU8: Finalizar y Cargar Estadisticas ===
+Ingrese el ID del scrim: [Push][DEV] tipo=[Scrim #2] ScrimStateChanged, to=mail-to, msg=Estado: EnJuego -> Finalizado (scrim=2)
+Formato: 1vs1 | Fecha: 2025-11-05T02:34:03.365338300Z
+Cuando: 2025-11-05T02:38:18.167804200Z
+[Email] Enviado a nicolastombo213@gmail.com,nicolastombo21@gmail.com
+[Push][DEV] tipo=[Scrim #2] ScrimFinalized, to=mail-to, msg=Scrim finalizado (scrim=2)
+Formato: 1vs1 | Fecha: 2025-11-05T02:34:03.365338300Z
+Equipo 1: ad
+Equipo 2: ntombo
+Gracias por jugar.
+Cuando: 2025-11-05T02:38:21.743491200Z
+[Email] Enviado a nicolastombo213@gmail.com,nicolastombo21@gmail.com
+Scrim finalizado y estadisticas cargadas.
++--------------------------------------------------------------+
+|                            Estado                            |
++--------------------------------------------------------------+
+Estado actual: Finalizado
++--------------------------------------------------------------+
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU11: Moderar Reportes ===
+No hay reportes pendientes.
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU12: Reportar Jugador ===
+Ingrese el ID del scrim: Seleccionar jugador a reportar:
+  1) ad
+  2) ntombo
+Opcion: Motivo:
+ 1) Toxicidad
+ 2) No Show
+ 3) Abandono
+ 4) Fraude
+Elija motivo: Descripcion (opcional): Reporte enviado. Gracias por colaborar.
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 
+=== CU11: Moderar Reportes ===
+Reportes:
+   1) ad              | Pendiente  | PNoShow
+Ingrese ID de reporte para moderar (o ENTER para volver): Seleccionar accion: 
+ 1) Advertir
+ 2) Suspender
+ 3) Desestimar
+Opcion: Reporte #1 resuelto: Advertencia
+
+[.] Presione ENTER para continuar...
+
++==============================================================+
+|                      Sistema de Scrims                       |
++--------------------------------------------------------------+
+|  1) Registrar Usuario                                        |
+|  2) Autenticar Usuario                                       |
+|  3) Crear Scrim                                              |
+|  4) Postularse a Scrim                                       |
+|  5) Emparejar y Armar Lobby                                  |
+|  6) Confirmar Participacion                                  |
+|  7) Iniciar Scrim                                            |
+|  8) Finalizar y Cargar Estadisticas                          |
+|  9) Cancelar Scrim                                           |
+| 10) Notificar Eventos                                        |
+| 11) Moderar Reportes                                         |
+| 12) Reportar Jugador                                         |
++==============================================================+
+Seleccione una opcion (0 para salir): 

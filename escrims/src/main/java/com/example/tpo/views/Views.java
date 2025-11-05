@@ -66,6 +66,11 @@ public final class Views {
         System.out.println(message);
     }
 
+    // Only log the rosters line without rendering to console
+    public static void rostersLogOnly(String message) {
+        append(new File(dir, "rosters.log"), message);
+    }
+
     private static List<String> parseList(String line) {
         int idx = line.indexOf(':');
         if (idx < 0 || idx + 1 >= line.length()) return new ArrayList<>();

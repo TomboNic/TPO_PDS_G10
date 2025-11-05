@@ -94,3 +94,154 @@ Evento generico notificado (destinatarios SMTP_TO).
 Cuando: 2025-11-04T19:56:03.688541200Z
 [Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=1)
 Cuando: 2025-11-04T19:56:09.171251800Z
+[Push][DEV] tipo=ScrimCreated, to=mail-to, msg=Evento: ScrimCreated
+Cuando: 2025-11-04T20:12:45.443489700Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+Cuando: 2025-11-04T20:12:50.077325700Z
+[Push][DEV] tipo=ScrimCreated, to=mail-to, msg=Evento: ScrimCreated
+Cuando: 2025-11-04T20:16:20.283787Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+Cuando: 2025-11-04T20:16:26.311516600Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-04T20:16:20.281994700Z
+Cuando: 2025-11-04T20:16:29.783512800Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: BuscandoJugadores -> LobbyArmado (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-04T20:16:20.281994700Z
+Cuando: 2025-11-04T20:17:46.321209300Z
+[Push][DEV] tipo=[Scrim #1] LobbyCompleted, to=mail-to, msg=Lobby completo (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-04T20:16:20.281994700Z
+Cuando: 2025-11-04T20:17:52.041383400Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: LobbyArmado -> Confirmado (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-04T20:16:20.281994700Z
+Cuando: 2025-11-04T20:18:43.373061100Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: Confirmado -> EnJuego (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-04T20:16:20.281994700Z
+Cuando: 2025-11-04T20:19:14.571134900Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: EnJuego -> Finalizado (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-04T20:16:20.281994700Z
+Cuando: 2025-11-04T20:19:36.135221800Z
+[Push][DEV] tipo=[Scrim #1] ScrimFinalized, to=mail-to, msg=Scrim finalizado (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-04T20:16:20.281994700Z
+Equipo 1: ntombolal
+Equipo 2: matdur
+Gracias por jugar.
+Cuando: 2025-11-04T20:19:40.499056100Z
+[Push][DEV] tipo=ScrimCreated, to=mail-to, msg=Evento: ScrimCreated
+Cuando: 2025-11-05T02:23:28.129761500Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+Cuando: 2025-11-05T02:23:33.101250600Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-05T02:23:28.112552100Z
+Cuando: 2025-11-05T02:23:36.309955400Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: BuscandoJugadores -> LobbyArmado (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-05T02:23:28.112552100Z
+Cuando: 2025-11-05T02:24:55.153849600Z
+[Push][DEV] tipo=[Scrim #1] LobbyCompleted, to=mail-to, msg=Lobby completo (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-05T02:23:28.112552100Z
+Cuando: 2025-11-05T02:24:59.079489700Z
+[Push][DEV] tipo=ScrimCreated, to=mail-to, msg=Evento: ScrimCreated
+Cuando: 2025-11-05T02:27:29.392637300Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+Cuando: 2025-11-05T02:27:34.307354Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-05T02:27:29.392637300Z
+Cuando: 2025-11-05T02:27:37.209293100Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: BuscandoJugadores -> LobbyArmado (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-05T02:27:29.392637300Z
+Cuando: 2025-11-05T02:27:55.860205800Z
+[Push][DEV] tipo=[Scrim #1] LobbyCompleted, to=mail-to, msg=Lobby completo (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-05T02:27:29.392637300Z
+Cuando: 2025-11-05T02:27:59.134842100Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: LobbyArmado -> Confirmado (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-05T02:27:29.392637300Z
+Cuando: 2025-11-05T02:28:28.221193300Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: Confirmado -> EnJuego (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-05T02:27:29.392637300Z
+Cuando: 2025-11-05T02:28:40.703725900Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: EnJuego -> Finalizado (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-05T02:27:29.392637300Z
+Cuando: 2025-11-05T02:28:56.398883600Z
+[Push][DEV] tipo=[Scrim #1] ScrimFinalized, to=mail-to, msg=Scrim finalizado (scrim=1)
+Formato: 1vs1 | Fecha: 2025-11-05T02:27:29.392637300Z
+Equipo 1: ntom
+Equipo 2: -
+Gracias por jugar.
+Cuando: 2025-11-05T02:28:59.556968Z
+[Push][DEV] tipo=ScrimCreated, to=mail-to, msg=Evento: ScrimCreated
+Cuando: 2025-11-05T02:31:38.226073600Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+Cuando: 2025-11-05T02:31:42.888668600Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=1)
+Formato: 3vs3 | Fecha: 2025-11-05T02:31:38.217377300Z
+Cuando: 2025-11-05T02:31:46.694013200Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: BuscandoJugadores -> LobbyArmado (scrim=1)
+Formato: 3vs3 | Fecha: 2025-11-05T02:31:38.217377300Z
+Cuando: 2025-11-05T02:32:04.289012700Z
+[Push][DEV] tipo=[Scrim #1] LobbyCompleted, to=mail-to, msg=Lobby completo (scrim=1)
+Formato: 3vs3 | Fecha: 2025-11-05T02:31:38.217377300Z
+Cuando: 2025-11-05T02:32:08.273868500Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: LobbyArmado -> Confirmado (scrim=1)
+Formato: 3vs3 | Fecha: 2025-11-05T02:31:38.217377300Z
+Cuando: 2025-11-05T02:32:23.811411900Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: Confirmado -> LobbyArmado (scrim=1)
+Formato: 3vs3 | Fecha: 2025-11-05T02:31:38.217377300Z
+Cuando: 2025-11-05T02:32:47.163399600Z
+[Push][DEV] tipo=[Scrim #1] LobbyCompleted, to=mail-to, msg=Lobby completo (scrim=1)
+Formato: 3vs3 | Fecha: 2025-11-05T02:31:38.217377300Z
+Cuando: 2025-11-05T02:32:50.796413Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: LobbyArmado -> Confirmado (scrim=1)
+Formato: 3vs3 | Fecha: 2025-11-05T02:31:38.217377300Z
+Cuando: 2025-11-05T02:33:01.924802100Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: Confirmado -> EnJuego (scrim=1)
+Formato: 3vs3 | Fecha: 2025-11-05T02:31:38.217377300Z
+Cuando: 2025-11-05T02:33:10.482708100Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: EnJuego -> Finalizado (scrim=1)
+Formato: 3vs3 | Fecha: 2025-11-05T02:31:38.217377300Z
+Cuando: 2025-11-05T02:33:26.548604900Z
+[Push][DEV] tipo=[Scrim #1] ScrimFinalized, to=mail-to, msg=Scrim finalizado (scrim=1)
+Formato: 3vs3 | Fecha: 2025-11-05T02:31:38.217377300Z
+Equipo 1: ntombo
+Equipo 2: -
+Gracias por jugar.
+Cuando: 2025-11-05T02:33:30.001652Z
+[Push][DEV] tipo=ScrimCreated, to=mail-to, msg=Evento: ScrimCreated
+Cuando: 2025-11-05T02:34:03.366723400Z
+[Push][DEV] tipo=[Scrim #2] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=2)
+Cuando: 2025-11-05T02:34:07.163810800Z
+[Push][DEV] tipo=[Scrim #2] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=2)
+Formato: 1vs1 | Fecha: 2025-11-05T02:34:03.365338300Z
+Cuando: 2025-11-05T02:34:10.377664400Z
+[Push][DEV] tipo=ScrimCreated, to=mail-to, msg=Evento: ScrimCreated
+Cuando: 2025-11-05T02:34:59.927290900Z
+[Push][DEV] tipo=[Scrim #3] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=3)
+Cuando: 2025-11-05T02:35:03.285344500Z
+[Push][DEV] tipo=[Scrim #3] ScrimStateChanged, to=mail-to, msg=Estado: (init) -> BuscandoJugadores (scrim=3)
+Formato: 1vs1 | Fecha: 2025-11-05T02:34:59.927290900Z
+Cuando: 2025-11-05T02:35:06.479829900Z
+[Push][DEV] tipo=[Scrim #2] ScrimStateChanged, to=mail-to, msg=Estado: BuscandoJugadores -> LobbyArmado (scrim=2)
+Formato: 1vs1 | Fecha: 2025-11-05T02:34:03.365338300Z
+Cuando: 2025-11-05T02:36:37.408422600Z
+[Push][DEV] tipo=[Scrim #2] LobbyCompleted, to=mail-to, msg=Lobby completo (scrim=2)
+Formato: 1vs1 | Fecha: 2025-11-05T02:34:03.365338300Z
+Cuando: 2025-11-05T02:36:40.976338400Z
+[Push][DEV] tipo=[Scrim #1] ScrimStateChanged, to=mail-to, msg=Estado: Finalizado -> LobbyArmado (scrim=1)
+Formato: 3vs3 | Fecha: 2025-11-05T02:31:38.217377300Z
+Cuando: 2025-11-05T02:36:49.814097800Z
+[Push][DEV] tipo=[Scrim #1] LobbyCompleted, to=mail-to, msg=Lobby completo (scrim=1)
+Formato: 3vs3 | Fecha: 2025-11-05T02:31:38.217377300Z
+Cuando: 2025-11-05T02:36:53.774485200Z
+[Push][DEV] tipo=[Scrim #2] ScrimStateChanged, to=mail-to, msg=Estado: LobbyArmado -> Confirmado (scrim=2)
+Formato: 1vs1 | Fecha: 2025-11-05T02:34:03.365338300Z
+Cuando: 2025-11-05T02:37:37.625158900Z
+[Push][DEV] tipo=[Scrim #2] ScrimStateChanged, to=mail-to, msg=Estado: Confirmado -> EnJuego (scrim=2)
+Formato: 1vs1 | Fecha: 2025-11-05T02:34:03.365338300Z
+Cuando: 2025-11-05T02:37:53.527973400Z
+[Push][DEV] tipo=[Scrim #2] ScrimStateChanged, to=mail-to, msg=Estado: EnJuego -> Finalizado (scrim=2)
+Formato: 1vs1 | Fecha: 2025-11-05T02:34:03.365338300Z
+Cuando: 2025-11-05T02:38:18.167804200Z
+[Push][DEV] tipo=[Scrim #2] ScrimFinalized, to=mail-to, msg=Scrim finalizado (scrim=2)
+Formato: 1vs1 | Fecha: 2025-11-05T02:34:03.365338300Z
+Equipo 1: ad
+Equipo 2: ntombo
+Gracias por jugar.
+Cuando: 2025-11-05T02:38:21.743491200Z
